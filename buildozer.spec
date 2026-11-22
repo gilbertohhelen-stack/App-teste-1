@@ -9,7 +9,7 @@ requests,certifi python3,kivy,requests,certifi
 android.accept_sdk_license = True
 orientation = portrait
 fullscreen = 0
-android.permissions = INTERNET,WRITE_EXTERNAL_STORAGE,READ_EXTERNAL_STORAGE,RECORD_AUDIO
+android.permissions = INTERNET,READ_EXTERNAL_STORAGE e WRITE_EXTERNAL_STORAGE
 android.api = 33
 android.minapi = 21
 android.ndk = 25b
